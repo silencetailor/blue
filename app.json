@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "description": "",
+  "env": {
+    "METHOD": {
+      "description": "º”√‹À„∑®",
+      "value": "aes-256-cfb"
+    },
+    "KEY": {
+      "description": "password",
+      "value": ""
+    }
+  }
+}
